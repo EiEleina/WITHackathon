@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/wit"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WITNEW2-main"
+	}
+}
